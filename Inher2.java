@@ -21,6 +21,9 @@ class Rto{
             System.out.println("Bus Tests");
         }
     }
+    public void display(){
+        System.out.println("Bus Tests");
+    }
 }
 class Inher2{
     public static void main(String[] arg){
