@@ -51,8 +51,12 @@ class Car{
 //Encapsulation
 //Ambiquos // Paradox // Dilema
 class Student{
+
+
+
     //Data Hiding    
     private String name;
+    private String names;
     private int age;
     public Student(String name, int age){
         this.name = name;
