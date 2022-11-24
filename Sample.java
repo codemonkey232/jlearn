@@ -27,6 +27,10 @@ class is the compilation unit of JAVA
 */
 
 //default class Sample => Executable Class
+
+
+
+
 class Sample{
     public static void main(String[] arg){
         Sample s = new Sample();
