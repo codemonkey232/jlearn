@@ -76,6 +76,12 @@ class Sample{
                 resultx =  a*b; break;
         }
         return resultx;
+        
+
+        
+
+
+
     }    
 }
 /*
