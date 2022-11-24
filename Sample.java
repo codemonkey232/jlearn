@@ -4,7 +4,7 @@
     Source Code => | Compiler | => Binary Code
 
     Machine Independent
-    JAVA
+    JAVA is running on more than 10 billion devices
         J2SE    => Standard Edition => Core JAVA
         J2EE    => Enterprises Edition => Web/Network based application development
             JSP => Web Application/Front end architecture
@@ -15,6 +15,7 @@
         J2ME    => Micro/Mobile Edition
 */
 /*
+
 Access Specifiers
     public 
     private
@@ -36,6 +37,7 @@ class Sample{
         // int x = 10_1000;
         result = s.calc(10,'+',20);
         System.out.println("The result is " + result);
+         System.out.println("The result is " + result);
     }
     int add(int a, int b){
         return a+b;
