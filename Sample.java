@@ -33,9 +33,9 @@ class is the compilation unit of JAVA
 
 class Sample{
     public static void main(String[] arg){
-
-        Sample s1 = new Sample();
         Sample s = new Sample();
+        Sample s1 = new Sample();
+        Sample s2 = new Sample();
         int result = s.add(10,20);
         // return;
         System.out.println("The result is " + result);
