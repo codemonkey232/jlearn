@@ -32,12 +32,18 @@ class is the compilation unit of JAVA
 
 
 class Sample{
+
+
     public static void main(String[] arg){
+
+
         Sample s = new Sample();
         Sample s1 = new Sample();
         Sample s2 = new Sample();
         int result = s.add(10,20);
         // return;
+
+        
         System.out.println("The result is " + result);
         // float f =3.14F;
         // int x = 10_1000;
